@@ -421,5 +421,29 @@
         "title": "Ecological Networks Across Environmental Gradients",
         "type": "article-journal",
         "volume": "48"
+    },
+    {
+        "URL": "https://www.jstor.org/stable/4353649",
+        "archive": "JSTOR",
+        "author": [
+            {
+                "family": "Whittaker",
+                "given": "Robert H."
+            }
+        ],
+        "container-title": "Botanical Review",
+        "id": "Whit62",
+        "issue": "1",
+        "issued": {
+            "date-parts": [
+                [
+                    1962
+                ]
+            ]
+        },
+        "page": "1-239",
+        "title": "Classification of Natural Communities",
+        "type": "article-journal",
+        "volume": "28"
     }
 ]
