@@ -1,5 +1,41 @@
 [
     {
+        "DOI": "10.1038/nature02297",
+        "URL": "http://dx.doi.org/10.1038/nature02297",
+        "author": [
+            {
+                "family": "Brose",
+                "given": "Ulrich"
+            },
+            {
+                "family": "Ostling",
+                "given": "Annette"
+            },
+            {
+                "family": "Harrison",
+                "given": "Kateri"
+            },
+            {
+                "family": "Martinez",
+                "given": "Neo D."
+            }
+        ],
+        "container-title": "Nature",
+        "id": "BrosOstl04",
+        "issue": "6979",
+        "issued": {
+            "date-parts": [
+                [
+                    2004
+                ]
+            ]
+        },
+        "page": "167-171",
+        "title": "Unified spatial scaling of species and their trophic interactions",
+        "type": "article-journal",
+        "volume": "428"
+    },
+    {
         "DOI": "10.1111/1365-2435.12710",
         "URL": "http://onlinelibrary.wiley.com/doi/10.1111/1365-2435.12710/abstract",
         "author": [
