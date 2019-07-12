@@ -1,0 +1,389 @@
+[
+    {
+        "DOI": "10.1111/1365-2435.12710",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1111/1365-2435.12710/abstract",
+        "author": [
+            {
+                "family": "Tr\u00f8jelsgaard",
+                "given": "Kristian"
+            },
+            {
+                "family": "Olesen",
+                "given": "Jens M."
+            }
+        ],
+        "container-title": "Functional Ecology",
+        "id": "TrojOles16",
+        "issue": "12",
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    7,
+                    1
+                ]
+            ]
+        },
+        "page": "1926-1935",
+        "title": "Ecological networks in motion: micro- and macroscopic variability across scales",
+        "type": "article-journal",
+        "volume": "30"
+    },
+    {
+        "DOI": "10.1111/ecog.00976",
+        "URL": "http://doi.wiley.com/10.1111/ecog.00976",
+        "author": [
+            {
+                "family": "Poisot",
+                "given": "Timoth\u00e9e"
+            },
+            {
+                "family": "Baiser",
+                "given": "Benjamin"
+            },
+            {
+                "family": "Dunne",
+                "given": "Jennifer A."
+            },
+            {
+                "family": "K\u00e9fi",
+                "given": "Sonia"
+            },
+            {
+                "family": "Massol",
+                "given": "Fran\u00e7ois"
+            },
+            {
+                "family": "Mouquet",
+                "given": "Nicolas"
+            },
+            {
+                "family": "Romanuk",
+                "given": "Tamara N."
+            },
+            {
+                "family": "Stouffer",
+                "given": "Daniel B."
+            },
+            {
+                "family": "Wood",
+                "given": "Spencer A."
+            },
+            {
+                "family": "Gravel",
+                "given": "Dominique"
+            }
+        ],
+        "container-title": "Ecography",
+        "id": "PoisBais16",
+        "issue": "4",
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    4
+                ]
+            ]
+        },
+        "page": "384-390",
+        "title": "mangal - making ecological network analysis simple",
+        "type": "article-journal",
+        "volume": "39"
+    },
+    {
+        "DOI": "10.1111/1365-2435.12799",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1111/1365-2435.12799/abstract",
+        "author": [
+            {
+                "family": "Poisot",
+                "given": "Timoth\u00e9e"
+            },
+            {
+                "family": "Stouffer",
+                "given": "Daniel B."
+            },
+            {
+                "family": "K\u00e9fi",
+                "given": "Sonia"
+            }
+        ],
+        "container-title": "Functional Ecology",
+        "id": "PoisStou16",
+        "issue": "12",
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    12,
+                    1
+                ]
+            ]
+        },
+        "page": "1878-1882",
+        "title": "Describe, understand and predict: why do we need networks in ecology?",
+        "type": "article-journal",
+        "volume": "30"
+    },
+    {
+        "DOI": "10.1016/j.ecolmodel.2014.02.019",
+        "author": [
+            {
+                "family": "Borrett",
+                "given": "Stuart R."
+            },
+            {
+                "family": "Moody",
+                "given": "James"
+            },
+            {
+                "family": "Edelmann",
+                "given": "Achim"
+            }
+        ],
+        "container-title": "Ecological Modelling",
+        "id": "BorrMood14",
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    12
+                ]
+            ]
+        },
+        "page": "111-127",
+        "title": "The rise of Network Ecology: Maps of the topic diversity and scientific collaboration",
+        "type": "article-journal",
+        "volume": "293"
+    },
+    {
+        "DOI": "10.1111/geb.12925",
+        "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.12925",
+        "author": [
+            {
+                "family": "Baiser",
+                "given": "Benjamin"
+            },
+            {
+                "family": "Gravel",
+                "given": "Dominique"
+            },
+            {
+                "family": "Cirtwill",
+                "given": "Alyssa R."
+            },
+            {
+                "family": "Dunne",
+                "given": "Jennifer A."
+            },
+            {
+                "family": "Fahimipour",
+                "given": "Ashkaan K."
+            },
+            {
+                "family": "Gilarranz",
+                "given": "Luis J."
+            },
+            {
+                "family": "Grochow",
+                "given": "Joshua A."
+            },
+            {
+                "family": "Li",
+                "given": "Daijiang"
+            },
+            {
+                "family": "Martinez",
+                "given": "Neo D."
+            },
+            {
+                "family": "McGrew",
+                "given": "Alicia"
+            },
+            {
+                "family": "Poisot",
+                "given": "Timoth\u00e9e"
+            },
+            {
+                "family": "Romanuk",
+                "given": "Tamara N."
+            },
+            {
+                "family": "Stouffer",
+                "given": "Daniel B."
+            },
+            {
+                "family": "Trotta",
+                "given": "Lauren B."
+            },
+            {
+                "family": "Valdovinos",
+                "given": "Fernanda S."
+            },
+            {
+                "family": "Williams",
+                "given": "Richard J."
+            },
+            {
+                "family": "Wood",
+                "given": "Spencer A."
+            },
+            {
+                "family": "Yeakel",
+                "given": "Justin D."
+            }
+        ],
+        "container-title": "Global Ecology and Biogeography",
+        "id": "BaisGrav19",
+        "issue": "0",
+        "issued": {
+            "date-parts": [
+                [
+                    2019
+                ]
+            ]
+        },
+        "title": "Ecogeographical rules and the macroecology of food webs",
+        "type": "article-journal",
+        "volume": "0"
+    },
+    {
+        "DOI": "10.1111/brv.12366",
+        "PMID": "28941124",
+        "author": [
+            {
+                "family": "Pellissier",
+                "given": "Lo\u00efc"
+            },
+            {
+                "family": "Albouy",
+                "given": "Camille"
+            },
+            {
+                "family": "Bascompte",
+                "given": "Jordi"
+            },
+            {
+                "family": "Farwig",
+                "given": "Nina"
+            },
+            {
+                "family": "Graham",
+                "given": "Catherine"
+            },
+            {
+                "family": "Loreau",
+                "given": "Michel"
+            },
+            {
+                "family": "Maglianesi",
+                "given": "Maria Alejandra"
+            },
+            {
+                "family": "Meli\u00e1n",
+                "given": "Carlos J."
+            },
+            {
+                "family": "Pitteloud",
+                "given": "Camille"
+            },
+            {
+                "family": "Roslin",
+                "given": "Tomas"
+            },
+            {
+                "family": "Rohr",
+                "given": "Rudolf"
+            },
+            {
+                "family": "Saavedra",
+                "given": "Serguei"
+            },
+            {
+                "family": "Thuiller",
+                "given": "Wilfried"
+            },
+            {
+                "family": "Woodward",
+                "given": "Guy"
+            },
+            {
+                "family": "Zimmermann",
+                "given": "Niklaus E."
+            },
+            {
+                "family": "Gravel",
+                "given": "Dominique"
+            }
+        ],
+        "container-title": "Biological Reviews of the Cambridge Philosophical Society",
+        "id": "PellAlbo17",
+        "issued": {
+            "date-parts": [
+                [
+                    2017,
+                    9,
+                    22
+                ]
+            ]
+        },
+        "title": "Comparing species interaction networks along environmental gradients",
+        "type": "article-journal"
+    },
+    {
+        "DOI": "10.1038/s41559-017-0162",
+        "URL": "http://www.nature.com/articles/s41559-017-0162",
+        "author": [
+            {
+                "family": "Thompson",
+                "given": "Patrick L."
+            },
+            {
+                "family": "Gonzalez",
+                "given": "Andrew"
+            }
+        ],
+        "container-title": "Nature Ecology & Evolution",
+        "id": "ThomGonz17",
+        "issued": {
+            "date-parts": [
+                [
+                    2017,
+                    5,
+                    8
+                ]
+            ]
+        },
+        "page": "0162",
+        "title": "Dispersal governs the reorganization of ecological networks under environmental change",
+        "type": "article-journal",
+        "volume": "1"
+    },
+    {
+        "DOI": "10.1146/annurev-ecolsys-110316-022821",
+        "URL": "https://doi.org/10.1146/annurev-ecolsys-110316-022821",
+        "author": [
+            {
+                "family": "Tylianakis",
+                "given": "Jason M."
+            },
+            {
+                "family": "Morris",
+                "given": "Rebecca J."
+            }
+        ],
+        "container-title": "Annual Review of Ecology, Evolution, and Systematics",
+        "id": "TyliMorr17",
+        "issue": "1",
+        "issued": {
+            "date-parts": [
+                [
+                    2017
+                ]
+            ]
+        },
+        "page": "25-48",
+        "title": "Ecological Networks Across Environmental Gradients",
+        "type": "article-journal",
+        "volume": "48"
+    }
+]
