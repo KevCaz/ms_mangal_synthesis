@@ -1,0 +1,138 @@
+\hypertarget{introduction}{%
+\subsection{Introduction}\label{introduction}}
+
+\hypertarget{networks-are-useful-and-important}{%
+\paragraph{Networks are useful and
+important}\label{networks-are-useful-and-important}}
+
+Ecological networks are a useful way to think about ecological systems,
+and recently there has been an explosion of interest in them. This
+interest has motivated two efforts: an expansion of the tools used to
+investigate ecological networks, and an increase data collection
+efforts. In order for both of these efforts to progress, we need a means
+for ecologists to share and access high-quality network data. Mangal
+responds to this need, by providing an online database of open network
+data. Our purpose in the current document is threefold: 1. to describe
+updates and improvements to the Mangal project 2. to demonstrate the
+kinds of analyses possible through worked examples 3. to highlight the
+need for more empirical network data, especially in undersampled
+regions.
+
+\hypertarget{re-introducing-mangal}{%
+\paragraph{(re) Introducing Mangal}\label{re-introducing-mangal}}
+
+Mangal is an actively developed project which has recently been expanded
+and improved. * An earlier manuscript (Poisot et al 2015 {[}tk{]})
+described Mangal as an online platform allowing ecologists to share data
+about ecological networks * New technical improvements include: * New
+data - number and amount of new information * web API for better data
+access, and two packages (one in Julia, the other in R) for accessing
+these data. * Mangal in its current form offers open network data that
+is ready to support synthesis at many scales.
+
+\hypertarget{ecological-synthesis}{%
+\paragraph{Ecological synthesis}\label{ecological-synthesis}}
+
+Synthesizing ecological data presents important challenges and also some
+exciting opportunities. Mangal is well suited to offer such
+opportunities in the study of ecological networks. * A major challenge
+to ecological synthesis is generalizing from samples to the behaviour of
+ecological systems * two obstacles to such generalizing in ecological
+systems: data coverage and data quality - data coverage: are data
+collected from every relevant system? - data quality: are data
+fit-for-purpose? Two particular aspects of quality - taxonomic
+resolution - sampling effort
+
+\hypertarget{coverage}{%
+\paragraph{Coverage}\label{coverage}}
+
+This database documents the impressive efforts of (generations of?)
+ecologists who have sampled nearly every continent and climatic zone, as
+well as various taxonomic groups and interaction types.
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{Coverage in geographic space.} Mangal now contains information
+  from all over the world, and from every continent except Antarctica. 
+\item
+  \emph{Coverage in climate space} Early ecologists identified the
+  earth's biomes based on combinations of temperature and precipitation.
+  Here we demonstrate that Mangal datasets have been sampled from across
+  these different biomes. In doing so, we also demonstrate how climate
+  data can be downloaded and combined with Mangal records. 
+\end{itemize}
+
+\hypertarget{data-quality-sampling-effort-and-taxonomy}{%
+\paragraph{Data quality: sampling effort and
+taxonomy}\label{data-quality-sampling-effort-and-taxonomy}}
+
+Sampling effort and taxonomic detail are two very challenging but
+important part of any ecological dataset. The datasets in Mangal
+represent some of the most detailed studies of ecological networks
+available. * measures of network structure may be particularly sensitive
+to the amount of sampling effort * repeat sampling may be necessary to
+capture a ``saturation'' of interactions. * we present some
+visualization of the sampling coverage of Mangal {[}tk{]} * High
+taxonomic resolution is difficult to achieve in ecology, especially
+depending on the sampling method used (e.g.~gut contents vs
+observations). We present a breakdown of the taxonomic resolution of
+Mangal. * Ecological networks occur in various kinds, but they are not
+all equally well sampled. We present a breakdown of the number of
+parasitic, mutualistic and predator-prey networks sampled in Mangal
+
+\hypertarget{reducing-uncertainty-through-analogues}{%
+\paragraph{reducing uncertainty through
+`analogues'}\label{reducing-uncertainty-through-analogues}}
+
+When we lack direct observation of a community, often we must resort to
+the use of `analog' communities -- that is, communities which are
+similar in space or environment which have been sampled. * Communities
+may be similar in at least two ways -- close in space, or close in
+climate * similarity may result in some (?) similarity in network
+structure, even if species different. * Always some uncertainty in such
+comparisons * reflects the need for more data gathering, can be used to
+target efforts
+
+\hypertarget{ecological-analyses-using-mangal}{%
+\subsection{Ecological analyses using
+Mangal}\label{ecological-analyses-using-mangal}}
+
+Ecological networks can be analyzed with a host of different techniques
+(Delmas et al {[}tk{]}). Many (most? {[}tk{]}) of these can be
+calculated using \texttt{EcologicalNetworks.jl} (Poisot et al {[}tk{]}).
+
+\hypertarget{link-density}{%
+\subsubsection{Link density}\label{link-density}}
+
+\hypertarget{connectance}{%
+\subsubsection{Connectance}\label{connectance}}
+
+\hypertarget{future-of-network-ecology}{%
+\subsection{Future of network ecology}\label{future-of-network-ecology}}
+
+\hypertarget{more-complete-analyses}{%
+\subsubsection{more complete analyses}\label{more-complete-analyses}}
+
+We have only shown some high-level summaries of the data here; many
+possibilities remain.
+
+\hypertarget{more-data-collection}{%
+\subsubsection{more data collection}\label{more-data-collection}}
+
+We have demonstrated the considerable coverage of Mangal; however, our
+summary also highlights important data-collection needs. In particular,
+we need better information about (mutualists, desert food webs?)
+
+\hypertarget{active-development}{%
+\subsubsection{Active development}\label{active-development}}
+
+This is an open-source project: all data and all code supporting this
+are available on the Mangal project GitHub organization. Our hope is
+that the success of this project will encourage similar efforts within
+other parts of the ecological community. In addition, we hope that this
+project will encourage the recognition of the contribution that software
+creators make to ecological research.
+
+\hypertarget{references}{%
+\section{References}\label{references}}
