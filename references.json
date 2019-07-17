@@ -521,5 +521,107 @@
         "page": "112540",
         "title": "Analysing ecological networks of species interactions",
         "type": "article-journal"
+    },
+    {
+        "DOI": "10.1016/j.tree.2019.02.017",
+        "URL": "https://www.cell.com/trends/ecology-evolution/abstract/S0169-5347(19)30064-3",
+        "author": [
+            {
+                "family": "Guiden",
+                "given": "Peter W."
+            },
+            {
+                "family": "Bartel",
+                "given": "Savannah L."
+            },
+            {
+                "family": "Byer",
+                "given": "Nathan W."
+            },
+            {
+                "family": "Shipley",
+                "given": "Amy A."
+            },
+            {
+                "family": "Orrock",
+                "given": "John L."
+            }
+        ],
+        "container-title": "Trends in Ecology & Evolution",
+        "id": "GuidBart19",
+        "issue": "0",
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    3,
+                    19
+                ]
+            ]
+        },
+        "title": "Predator\u2013Prey Interactions in the Anthropocene: Reconciling Multiple Aspects of Novelty",
+        "type": "article-journal",
+        "volume": "0"
+    },
+    {
+        "DOI": "10.1016/j.tree.2018.11.003",
+        "URL": "http://www.sciencedirect.com/science/article/pii/S016953471830274X",
+        "author": [
+            {
+                "family": "Hui",
+                "given": "Cang"
+            },
+            {
+                "family": "Richardson",
+                "given": "David M."
+            }
+        ],
+        "container-title": "Trends in Ecology & Evolution",
+        "id": "HuiRich19",
+        "issue": "2",
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    2,
+                    1
+                ]
+            ]
+        },
+        "page": "121-131",
+        "title": "How to Invade an Ecological Network",
+        "type": "article-journal",
+        "volume": "34"
+    },
+    {
+        "author": [
+            {
+                "family": "Morales-Castilla",
+                "given": "Ignacio"
+            },
+            {
+                "family": "Matias",
+                "given": "Miguel G."
+            },
+            {
+                "family": "Gravel",
+                "given": "Dominique"
+            },
+            {
+                "family": "Ara\u00fajo",
+                "given": "Miguel B."
+            }
+        ],
+        "container-title": "Trends in Ecology & Evolution",
+        "id": "MoraMati15",
+        "issued": {
+            "date-parts": [
+                [
+                    2015
+                ]
+            ]
+        },
+        "title": "Inferring biotic interactions from proxies",
+        "type": "article-journal"
     }
 ]
