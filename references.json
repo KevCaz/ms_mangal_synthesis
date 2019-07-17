@@ -1061,5 +1061,111 @@
         "title": "Impact of Non-Native Terrestrial Mammals on the Structure of the Terrestrial Mammal Food Web of Newfoundland, Canada",
         "type": "article-journal",
         "volume": "9"
+    },
+    {
+        "DOI": "10.1111/ecog.01941",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1111/ecog.01941/abstract",
+        "author": [
+            {
+                "family": "Poisot",
+                "given": "Timoth\u00e9e"
+            },
+            {
+                "family": "Gravel",
+                "given": "Dominique"
+            },
+            {
+                "family": "Leroux",
+                "given": "Shawn"
+            },
+            {
+                "family": "Wood",
+                "given": "Spencer A."
+            },
+            {
+                "family": "Fortin",
+                "given": "Marie-Jos\u00e9e"
+            },
+            {
+                "family": "Baiser",
+                "given": "Benjamin"
+            },
+            {
+                "family": "Cirtwill",
+                "given": "Alyssa R."
+            },
+            {
+                "family": "Ara\u00fajo",
+                "given": "Miguel B."
+            },
+            {
+                "family": "Stouffer",
+                "given": "Daniel B."
+            }
+        ],
+        "container-title": "Ecography",
+        "id": "PoisGrav16",
+        "issue": "4",
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    4,
+                    1
+                ]
+            ]
+        },
+        "page": "402-408",
+        "title": "Synthetic datasets and community tools for the rapid testing of ecological hypotheses",
+        "type": "article-journal",
+        "volume": "39"
+    },
+    {
+        "DOI": "10.1111/gcb.12467",
+        "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.12467",
+        "author": [
+            {
+                "family": "Albouy",
+                "given": "Camille"
+            },
+            {
+                "family": "Velez",
+                "given": "Laure"
+            },
+            {
+                "family": "Coll",
+                "given": "Marta"
+            },
+            {
+                "family": "Colloca",
+                "given": "Francesco"
+            },
+            {
+                "family": "Loc'h",
+                "given": "Fran\u00e7ois Le"
+            },
+            {
+                "family": "Mouillot",
+                "given": "David"
+            },
+            {
+                "family": "Gravel",
+                "given": "Dominique"
+            }
+        ],
+        "container-title": "Global Change Biology",
+        "id": "AlboVele14",
+        "issue": "3",
+        "issued": {
+            "date-parts": [
+                [
+                    2014
+                ]
+            ]
+        },
+        "page": "730-741",
+        "title": "From projected species distribution to food-web structure under climate change",
+        "type": "article-journal",
+        "volume": "20"
     }
 ]

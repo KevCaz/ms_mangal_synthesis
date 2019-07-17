@@ -40,25 +40,15 @@
   <article>
     <h1 id="introduction">Introduction</h1>
     <p>Ecological networks are a useful way to think about ecological systems in which species or organism interact <span class="citation" data-cites="DelmBess18 PoisStou16">(Delmas et al. 2018; Poisot, Stouffer, and Kéfi 2016)</span>, and recently there has been an explosion of interest in their dynamics across large temporal scales <span class="citation" data-cites="BaisGrav19 TyliMorr17">(Baiser et al. 2019; Tylianakis and Morris 2017)</span>, especially alongside environmental gradients <span class="citation" data-cites="PellAlbo17 TrojOles16">(Pellissier et al. 2017; Trøjelsgaard and Olesen 2016)</span>. As ecosystems and climates are changing rapidly, ecologists realized that networks are at risk or unravelling, being invaded by exotic species that can destabilize them <span class="citation" data-cites="MagrHolz17 StroLero14">(Magrach et al. 2017; Strong and Leroux 2014)</span>, or adopt entirely novel configurations <span class="citation" data-cites="HuiRich19 GuidBart19">(Hui and Richardson 2019; Guiden et al. 2019)</span>. Simulation studies seem to suggest that knowing the shape of the extant network is not sufficient <span class="citation" data-cites="ThomGonz17">(Thompson and Gonzalez 2017)</span>, and that it needs to be supplemented by additional data on species properties, climate, and climate projection.</p>
-    <p>This renewed interest in ecological networks has prompted several methodological efforts. First, an expansion of the analytical tools to study ecological networks and their variation in space (<strong>REFS</strong>). Second, improvements in large-scale data-collection, through increased adoption of molecular biology tools (<strong>REFS</strong>) and crowd-sourcing of data collection (<strong>REFS</strong>). Finally, a surge in the development of tools that allow to <em>infer</em> species interaction <span class="citation" data-cites="MoraMati15">(Morales-Castilla et al. 2015)</span> based on limited but complementary data on existing network properties <span class="citation" data-cites="StocPois17">(Stock et al. 2017)</span>, species traits <span class="citation" data-cites="GravGravPois13 DesjLaig17 BrouGrav17 BartGrav16">(<span class="citeproc-not-found" data-reference-id="GravGravPois13"><strong>???</strong></span>; Desjardins-Proulx et al. 2017;  Brousseau, Gravel, and Tanya Handa 2017; Bartomeus et al. 2016)</span>, and environmental conditions <span class="citation" data-cites="GravBais18">(Gravel et al. 2018)</span>. These approaches tend to perform well in data-poor environments <span class="citation" data-cites="BeauDesj16">(Beauchesne et al. 2016)</span>, and can be combined through ensemble modeling or model averaging to generate possibly more robust predictions <span class="citation" data-cites="PomeThom18">(Pomeranz et al. 2018)</span>.</p>
-    <p>All of these developments share a nexus on data management: novel quantitative tools demand a higher volume of network data; novel collection techniques demand powerful data repositories; novel inference tools demand easier integration between different types of data, including but not limited to interactions, species traits, taxonomy, occurrences, and local bioclimatic conditions.</p>
-    <h2 id="the-need-for-an-integrated-networks-database">The need for an integrated networks database</h2>
-    <p>Mangal is an actively developed project which has recently been expanded and improved. <span class="citation" data-cites="PoisBais16">Poisot et al. (2016)</span> – original mangal paper</p>
+    <p>This renewed interest in ecological networks has prompted several methodological efforts. First, an expansion of the analytical tools to study ecological networks and their variation in space (<strong>REFS</strong>). Second, improvements in large-scale data-collection, through increased adoption of molecular biology tools (<strong>REFS</strong>) and crowd-sourcing of data collection (<strong>REFS</strong>). Finally, a surge in the development of tools that allow to <em>infer</em> species interaction <span class="citation" data-cites="MoraMati15">(Morales-Castilla et al. 2015)</span> based on limited but complementary data on existing network properties <span class="citation" data-cites="StocPois17">(Stock et al. 2017)</span>, species traits <span class="citation" data-cites="GravPois13 DesjLaig17 BrouGrav17 BartGrav16">(Gravel et al. 2013; Desjardins-Proulx et al. 2017;  Brousseau, Gravel, and Tanya Handa 2017; Bartomeus et al. 2016)</span>, and environmental conditions <span class="citation" data-cites="GravBais18">(Gravel et al. 2018)</span>. These approaches tend to perform well in data-poor environments <span class="citation" data-cites="BeauDesj16">(Beauchesne et al. 2016)</span>, and can be combined through ensemble modeling or model averaging to generate possibly more robust predictions <span class="citation" data-cites="PomeThom18">(Pomeranz et al. 2018)</span>.</p>
+    <p>The common goal to these efforts is to facilitate the prediction of network structure, both extant [<span class="citation" data-cites="PoisGrav16">Poisot, Gravel, et al. (2016)</span>; <strong>MARINE FOODWEB</strong>] and future <span class="citation" data-cites="AlboVele14">(Albouy et al. 2014)</span>, and to appraise its possible variation in response to changes. All of these developments also share the need to be supported by state of the art data management: novel quantitative tools demand a higher volume of network data; novel collection techniques demand powerful data repositories; novel inference tools demand easier integration between different types of data, including but not limited to interactions, species traits, taxonomy, occurrences, and local bioclimatic conditions.</p>
+    <p><span class="citation" data-cites="PoisBais16">Poisot, Baiser, et al. (2016)</span> – overview of original DB + updates, <strong>TODO</strong> map of networks + networks over time</p>
     <ul>
-    <li>An earlier manuscript (Poisot et al 2015 [tk]) described Mangal as an online platform allowing ecologists to share data about ecological networks</li>
-    <li>New technical improvements include:</li>
     <li>New data</li>
     <li>number and amount of new information</li>
     <li>web API for better data access, and two packages (one in Julia, the other in R) for accessing these data.</li>
     <li>Mangal in its current form offers open network data that is ready to support synthesis at many scales.</li>
     </ul>
-    <!-- I don't think these would literally be a numbered list but it might be a start -->
-    <ul>
-    <li><p><em>Coverage in geographic space.</em> Mangal now contains information from all over the world, and from every continent except Antarctica. <!-- map from vignette --></p></li>
-    <li><p><em>Coverage in climate space</em> Early ecologists identified the earth’s biomes based on combinations of temperature and precipitation. Here we demonstrate that Mangal datasets have been sampled from across these different biomes. In doing so, we also demonstrate how climate data can be downloaded and combined with Mangal records. <!-- Whittaker biome plot --></p></li>
-    </ul>
-    <p>This database documents the impressive efforts of (generations of?) ecologists who have sampled nearly every continent and climatic zone, as well as various taxonomic groups and interaction types.</p>
-    <h2 id="synthesis-on-ecological-networks-is-rising">Synthesis on ecological networks is rising</h2>
     <p><span class="citation" data-cites="BorrMood14">Borrett, Moody, and Edelmann (2014)</span> identified network ecology as one of the fastest growing sub-field in the ecological sciences.</p>
     <p>Synthesizing ecological data presents important challenges and also some exciting opportunities. Mangal is well suited to offer such opportunities in the study of ecological networks.</p>
     <ul>
@@ -73,6 +63,7 @@
     </ul></li>
     </ul></li>
     </ul>
+    <p><strong>Main question</strong>, is the data fit for purpose, what can we do and cannot do with it?</p>
     <h1 id="global-trends-in-ecological-networks-description">Global trends in ecological networks description</h1>
     <h2 id="network-coverage-is-accelerating">Network coverage is accelerating</h2>
     <figure>
@@ -122,6 +113,9 @@
     <p>Sampling effort and taxonomic detail are two very challenging but important part of any ecological dataset. The datasets in Mangal represent some of the most detailed studies of ecological networks available. * measures of network structure may be particularly sensitive to the amount of sampling effort * repeat sampling may be necessary to capture a “saturation” of interactions. * we present some visualization of the sampling coverage of Mangal [tk] * High taxonomic resolution is difficult to achieve in ecology, especially depending on the sampling method used (e.g. gut contents vs observations). We present a breakdown of the taxonomic resolution of Mangal. * Ecological networks occur in various kinds, but they are not all equally well sampled. We present a breakdown of the number of parasitic, mutualistic and predator-prey networks sampled in Mangal <!-- perhaps this could be a 3-panel figure --></p>
     <h1 id="references" class="unnumbered">References</h1>
     <div id="refs" class="references" role="doc-bibliography">
+    <div id="ref-AlboVele14">
+    <p>Albouy, Camille, Laure Velez, Marta Coll, Francesco Colloca, François Le Loc’h, David Mouillot, and Dominique Gravel. 2014. “From Projected Species Distribution to Food-Web Structure Under Climate Change.” <em>Global Change Biology</em> 20 (3): 730–41. <a href="https://doi.org/10.1111/gcb.12467">https://doi.org/10.1111/gcb.12467</a>.</p>
+    </div>
     <div id="ref-BaisGrav19">
     <p>Baiser, Benjamin, Dominique Gravel, Alyssa R. Cirtwill, Jennifer A. Dunne, Ashkaan K. Fahimipour, Luis J. Gilarranz, Joshua A. Grochow, et al. 2019. “Ecogeographical Rules and the Macroecology of Food Webs.” <em>Global Ecology and Biogeography</em> 0 (0). <a href="https://doi.org/10.1111/geb.12925">https://doi.org/10.1111/geb.12925</a>.</p>
     </div>
@@ -149,6 +143,9 @@
     <div id="ref-GravBais18">
     <p>Gravel, Dominique, Benjamin Baiser, Jennifer A. Dunne, Jens-Peter Kopelke, Neo D. Martinez, Tommi Nyman, Timothée Poisot, et al. 2018. “Bringing Elton and Grinnell Together: A Quantitative Framework to Represent the Biogeography of Ecological Interaction Networks.” <em>Ecography</em> 0 (0). <a href="https://doi.org/10.1111/ecog.04006">https://doi.org/10.1111/ecog.04006</a>.</p>
     </div>
+    <div id="ref-GravPois13">
+    <p>Gravel, Dominique, Timothée Poisot, Camille Albouy, Laure Velez, and David Mouillot. 2013. “Inferring Food Web Structure from Predator-Prey Body Size Relationships.” Edited by Robert Freckleton. <em>Methods in Ecology and Evolution</em> 4 (11): 1083–90. <a href="https://doi.org/10.1111/2041-210X.12103">https://doi.org/10.1111/2041-210X.12103</a>.</p>
+    </div>
     <div id="ref-GuidBart19">
     <p>Guiden, Peter W., Savannah L. Bartel, Nathan W. Byer, Amy A. Shipley, and John L. Orrock. 2019. “Predator–Prey Interactions in the Anthropocene: Reconciling Multiple Aspects of Novelty.” <em>Trends in Ecology &amp; Evolution</em> 0 (0). <a href="https://doi.org/10.1016/j.tree.2019.02.017">https://doi.org/10.1016/j.tree.2019.02.017</a>.</p>
     </div>
@@ -166,6 +163,9 @@
     </div>
     <div id="ref-PoisBais16">
     <p>Poisot, Timothée, Benjamin Baiser, Jennifer A. Dunne, Sonia Kéfi, François Massol, Nicolas Mouquet, Tamara N. Romanuk, Daniel B. Stouffer, Spencer A. Wood, and Dominique Gravel. 2016. “Mangal - Making Ecological Network Analysis Simple.” <em>Ecography</em> 39 (4): 384–90. <a href="https://doi.org/10.1111/ecog.00976">https://doi.org/10.1111/ecog.00976</a>.</p>
+    </div>
+    <div id="ref-PoisGrav16">
+    <p>Poisot, Timothée, Dominique Gravel, Shawn Leroux, Spencer A. Wood, Marie-Josée Fortin, Benjamin Baiser, Alyssa R. Cirtwill, Miguel B. Araújo, and Daniel B. Stouffer. 2016. “Synthetic Datasets and Community Tools for the Rapid Testing of Ecological Hypotheses.” <em>Ecography</em> 39 (4): 402–8. <a href="https://doi.org/10.1111/ecog.01941">https://doi.org/10.1111/ecog.01941</a>.</p>
     </div>
     <div id="ref-PoisStou16">
     <p>Poisot, Timothée, Daniel B. Stouffer, and Sonia Kéfi. 2016. “Describe, Understand and Predict: Why Do We Need Networks in Ecology?” <em>Functional Ecology</em> 30 (12): 1878–82. <a href="https://doi.org/10.1111/1365-2435.12799">https://doi.org/10.1111/1365-2435.12799</a>.</p>
