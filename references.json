@@ -623,5 +623,443 @@
         },
         "title": "Inferring biotic interactions from proxies",
         "type": "article-journal"
+    },
+    {
+        "DOI": "10.1038/srep45908",
+        "URL": "http://www.nature.com/srep/2017/170406/srep45908/full/srep45908.html",
+        "author": [
+            {
+                "family": "Stock",
+                "given": "Michiel"
+            },
+            {
+                "family": "Poisot",
+                "given": "Timoth\u00e9e"
+            },
+            {
+                "family": "Waegeman",
+                "given": "Willem"
+            },
+            {
+                "family": "Baets",
+                "given": "Bernard De"
+            }
+        ],
+        "container-title": "Scientific Reports",
+        "id": "StocPois17",
+        "issued": {
+            "date-parts": [
+                [
+                    2017,
+                    4,
+                    6
+                ]
+            ]
+        },
+        "page": "45908",
+        "title": "Linear filtering reveals false negatives in species interaction data",
+        "type": "article-journal",
+        "volume": "7"
+    },
+    {
+        "author": [
+            {
+                "family": "Beauchesne",
+                "given": "David"
+            },
+            {
+                "literal": "Desjardins-Proulx"
+            },
+            {
+                "family": "Archambault",
+                "given": "Philippe"
+            },
+            {
+                "family": "Gravel",
+                "given": "Dominique"
+            }
+        ],
+        "container-title": "Vie et milieu-life and enVironment",
+        "id": "BeauDesj16",
+        "issue": "3-4",
+        "issued": {
+            "date-parts": [
+                [
+                    2016
+                ]
+            ]
+        },
+        "page": "333\u2013342",
+        "title": "Thinking Outside the Box\u2013predicting Biotic Interactions in Data-poor Environments",
+        "type": "article-journal",
+        "volume": "66"
+    },
+    {
+        "DOI": "10.7717/peerj.3644",
+        "URL": "https://doi.org/10.7717/peerj.3644",
+        "author": [
+            {
+                "family": "Desjardins-Proulx",
+                "given": "Philippe"
+            },
+            {
+                "family": "Laigle",
+                "given": "Idaline"
+            },
+            {
+                "family": "Poisot",
+                "given": "Timoth\u00e9e"
+            },
+            {
+                "family": "Gravel",
+                "given": "Dominique"
+            }
+        ],
+        "container-title": "PeerJ",
+        "id": "DesjLaig17",
+        "issue": "e3644",
+        "issued": {
+            "date-parts": [
+                [
+                    2017
+                ]
+            ]
+        },
+        "title": "Ecological interactions and the Netflix problem",
+        "type": "article-journal",
+        "volume": "5"
+    },
+    {
+        "DOI": "10.1111/1365-2435.12943",
+        "URL": "http://doi.wiley.com/10.1111/1365-2435.12943",
+        "author": [
+            {
+                "family": "Brousseau",
+                "given": "Pierre-Marc"
+            },
+            {
+                "family": "Gravel",
+                "given": "Dominique"
+            },
+            {
+                "family": "Tanya Handa",
+                "given": "I."
+            }
+        ],
+        "container-title": "Functional Ecology",
+        "id": "BrouGrav17",
+        "issued": {
+            "date-parts": [
+                [
+                    2017,
+                    7,
+                    20
+                ]
+            ]
+        },
+        "title": "Trait-matching and phylogeny as predictors of predator-prey interactions involving ground beetles",
+        "type": "article-journal"
+    },
+    {
+        "DOI": "10.1111/2041-210X.12103",
+        "URL": "http://doi.wiley.com/10.1111/2041-210X.12103",
+        "author": [
+            {
+                "family": "Gravel",
+                "given": "Dominique"
+            },
+            {
+                "family": "Poisot",
+                "given": "Timoth\u00e9e"
+            },
+            {
+                "family": "Albouy",
+                "given": "Camille"
+            },
+            {
+                "family": "Velez",
+                "given": "Laure"
+            },
+            {
+                "family": "Mouillot",
+                "given": "David"
+            }
+        ],
+        "container-title": "Methods in Ecology and Evolution",
+        "editor": [
+            {
+                "family": "Freckleton",
+                "given": "Robert"
+            }
+        ],
+        "id": "GravPois13",
+        "issue": "11",
+        "issued": {
+            "date-parts": [
+                [
+                    2013,
+                    11
+                ]
+            ]
+        },
+        "page": "1083-1090",
+        "title": "Inferring food web structure from predator-prey body size relationships",
+        "type": "article-journal",
+        "volume": "4"
+    },
+    {
+        "DOI": "10.1111/ecog.04006",
+        "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ecog.04006",
+        "author": [
+            {
+                "family": "Gravel",
+                "given": "Dominique"
+            },
+            {
+                "family": "Baiser",
+                "given": "Benjamin"
+            },
+            {
+                "family": "Dunne",
+                "given": "Jennifer A."
+            },
+            {
+                "family": "Kopelke",
+                "given": "Jens-Peter"
+            },
+            {
+                "family": "Martinez",
+                "given": "Neo D."
+            },
+            {
+                "family": "Nyman",
+                "given": "Tommi"
+            },
+            {
+                "family": "Poisot",
+                "given": "Timoth\u00e9e"
+            },
+            {
+                "family": "Stouffer",
+                "given": "Daniel B."
+            },
+            {
+                "family": "Tylianakis",
+                "given": "Jason M."
+            },
+            {
+                "family": "Wood",
+                "given": "Spencer A."
+            },
+            {
+                "family": "Roslin",
+                "given": "Tomas"
+            }
+        ],
+        "container-title": "Ecography",
+        "id": "GravBais18",
+        "issue": "0",
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    10
+                ]
+            ]
+        },
+        "title": "Bringing Elton and Grinnell together: a quantitative framework to represent the biogeography of ecological interaction networks",
+        "type": "article-journal",
+        "volume": "0"
+    },
+    {
+        "DOI": "10.1111/2041-210X.13125",
+        "URL": "https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.13125",
+        "author": [
+            {
+                "family": "Pomeranz",
+                "given": "Justin PF"
+            },
+            {
+                "family": "Thompson",
+                "given": "Ross M."
+            },
+            {
+                "family": "Poisot",
+                "given": "Timoth\u00e9e"
+            },
+            {
+                "family": "Harding",
+                "given": "Jon S."
+            }
+        ],
+        "container-title": "Methods in Ecology and Evolution",
+        "id": "PomeThom18",
+        "issue": "ja",
+        "issued": {
+            "date-parts": [
+                [
+                    2018
+                ]
+            ]
+        },
+        "title": "Inferring predator-prey interactions in food webs",
+        "type": "article-journal",
+        "volume": "0"
+    },
+    {
+        "DOI": "10.1111/1365-2435.12666",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1111/1365-2435.12666/abstract",
+        "author": [
+            {
+                "family": "Bartomeus",
+                "given": "Ignasi"
+            },
+            {
+                "family": "Gravel",
+                "given": "Dominique"
+            },
+            {
+                "family": "Tylianakis",
+                "given": "Jason M."
+            },
+            {
+                "family": "Aizen",
+                "given": "Marcelo A."
+            },
+            {
+                "family": "Dickie",
+                "given": "Ian A."
+            },
+            {
+                "family": "Bernard-Verdier",
+                "given": "Maud"
+            }
+        ],
+        "container-title": "Functional Ecology",
+        "id": "BartGrav16",
+        "issue": "12",
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    5,
+                    1
+                ]
+            ]
+        },
+        "page": "1894-1903",
+        "title": "A common framework for identifying linkage rules across different types of interactions",
+        "type": "article-journal",
+        "volume": "30"
+    },
+    {
+        "DOI": "10.1111/ecog.02847",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1111/ecog.02847/abstract",
+        "author": [
+            {
+                "family": "Magrach",
+                "given": "Ainhoa"
+            },
+            {
+                "family": "Holzschuh",
+                "given": "Andrea"
+            },
+            {
+                "family": "Bartomeus",
+                "given": "Ignasi"
+            },
+            {
+                "family": "Riedinger",
+                "given": "Verena"
+            },
+            {
+                "family": "Roberts",
+                "given": "Stuart P.M."
+            },
+            {
+                "family": "Rundl\u00f6f",
+                "given": "Maj"
+            },
+            {
+                "family": "Vuji\u0107",
+                "given": "Ante"
+            },
+            {
+                "family": "Wickens",
+                "given": "Jennifer B."
+            },
+            {
+                "family": "Wickens",
+                "given": "Victoria J."
+            },
+            {
+                "family": "Bommarco",
+                "given": "Riccardo"
+            },
+            {
+                "family": "Gonz\u00e1lez-Varo",
+                "given": "Juan P."
+            },
+            {
+                "family": "Potts",
+                "given": "Simon G."
+            },
+            {
+                "family": "Smith",
+                "given": "Henrik G."
+            },
+            {
+                "family": "Steffan-Dewenter",
+                "given": "Ingolf"
+            },
+            {
+                "family": "Vil\u00e0",
+                "given": "Montserrat"
+            }
+        ],
+        "container-title": "Ecography",
+        "id": "MagrHolz17",
+        "issued": {
+            "date-parts": [
+                [
+                    2017,
+                    2,
+                    1
+                ]
+            ]
+        },
+        "page": "n/a-n/a",
+        "title": "Plant-pollinator networks in semi-natural grasslands are resistant to the loss of pollinators during blooming of mass-flowering crops",
+        "type": "article-journal"
+    },
+    {
+        "DOI": "10.1371/journal.pone.0106264",
+        "URL": "http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0106264",
+        "author": [
+            {
+                "family": "Strong",
+                "given": "Justin S."
+            },
+            {
+                "family": "Leroux",
+                "given": "Shawn J."
+            }
+        ],
+        "container-title": "PLOS ONE",
+        "id": "StroLero14",
+        "issue": "8",
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    8,
+                    29
+                ]
+            ]
+        },
+        "page": "e106264",
+        "title": "Impact of Non-Native Terrestrial Mammals on the Structure of the Terrestrial Mammal Food Web of Newfoundland, Canada",
+        "type": "article-journal",
+        "volume": "9"
     }
 ]
