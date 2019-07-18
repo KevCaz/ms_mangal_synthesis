@@ -1167,5 +1167,99 @@
         "title": "From projected species distribution to food-web structure under climate change",
         "type": "article-journal",
         "volume": "20"
+    },
+    {
+        "DOI": "10.1080/02691728.2012.760663",
+        "URL": "https://doi.org/10.1080/02691728.2012.760663",
+        "author": [
+            {
+                "family": "Mauthner",
+                "given": "Natasha Susan"
+            },
+            {
+                "family": "Parry",
+                "given": "Odette"
+            }
+        ],
+        "container-title": "Social Epistemology",
+        "id": "MautParr13",
+        "issue": "1",
+        "issued": {
+            "date-parts": [
+                [
+                    2013,
+                    1,
+                    1
+                ]
+            ]
+        },
+        "page": "47-67",
+        "title": "Open Access Digital Data Sharing: Principles, Policies and Practices",
+        "type": "article-journal",
+        "volume": "27"
+    },
+    {
+        "DOI": "10.1177/194008290800100202",
+        "URL": "https://doi.org/10.1177/194008290800100202",
+        "author": [
+            {
+                "family": "Collen",
+                "given": "Ben"
+            },
+            {
+                "family": "Ram",
+                "given": "Mala"
+            },
+            {
+                "family": "Zamin",
+                "given": "Tara"
+            },
+            {
+                "family": "McRae",
+                "given": "Louise"
+            }
+        ],
+        "container-title": "Tropical Conservation Science",
+        "id": "CollRam08",
+        "issue": "2",
+        "issued": {
+            "date-parts": [
+                [
+                    2008,
+                    6,
+                    1
+                ]
+            ]
+        },
+        "page": "75-88",
+        "title": "The Tropical Biodiversity Data Gap: Addressing Disparity in Global Monitoring",
+        "type": "article-journal",
+        "volume": "1"
+    },
+    {
+        "DOI": "10.1111/j.1744-7429.2010.00652.x",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1111/j.1744-7429.2010.00652.x/abstract",
+        "author": [
+            {
+                "family": "Bruna",
+                "given": "Emilio M."
+            }
+        ],
+        "container-title": "Biotropica",
+        "id": "Brun10",
+        "issue": "4",
+        "issued": {
+            "date-parts": [
+                [
+                    2010,
+                    7,
+                    1
+                ]
+            ]
+        },
+        "page": "399-401",
+        "title": "Scientific Journals can Advance Tropical Biology and Conservation by Requiring Data Archiving",
+        "type": "article-journal",
+        "volume": "42"
     }
 ]
