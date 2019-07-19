@@ -2086,5 +2086,55 @@
         "page": "n/a-n/a",
         "title": "WorldClim 2: new 1-km spatial resolution climate surfaces for global land areas",
         "type": "article-journal"
+    },
+    {
+        "DOI": "10.1371/journal.pone.0182274",
+        "URL": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0182274",
+        "author": [
+            {
+                "family": "Giannini",
+                "given": "Tereza Cristina"
+            },
+            {
+                "family": "Costa",
+                "given": "Wilian Fran\u00e7a"
+            },
+            {
+                "family": "Cordeiro",
+                "given": "Guaraci Duran"
+            },
+            {
+                "family": "Imperatriz-Fonseca",
+                "given": "Vera Lucia"
+            },
+            {
+                "family": "Saraiva",
+                "given": "Antonio Mauro"
+            },
+            {
+                "family": "Biesmeijer",
+                "given": "Jacobus"
+            },
+            {
+                "family": "Garibaldi",
+                "given": "Lucas Alejandro"
+            }
+        ],
+        "container-title": "PLOS ONE",
+        "id": "GianCost17",
+        "issue": "8",
+        "issued": {
+            "date-parts": [
+                [
+                    2017,
+                    8,
+                    9
+                ]
+            ]
+        },
+        "page": "e0182274",
+        "title": "Projected climate change threatens pollinators and crop production in Brazil",
+        "type": "article-journal",
+        "volume": "12"
     }
 ]
