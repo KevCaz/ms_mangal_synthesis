@@ -1558,5 +1558,276 @@
         "page": "n/a-n/a",
         "title": "Hosts, parasites and their interactions respond to different climatic variables",
         "type": "article-journal"
+    },
+    {
+        "DOI": "10.1111/j.1600-0587.2013.00201.x",
+        "author": [
+            {
+                "family": "Dalsgaard",
+                "given": "Bo"
+            },
+            {
+                "family": "Tr\u00f8jelsgaard",
+                "given": "Kristian"
+            },
+            {
+                "family": "Mart\u00edn Gonz\u00e1lez",
+                "given": "Ana M."
+            },
+            {
+                "family": "Nogu\u00e9s-Bravo",
+                "given": "David"
+            },
+            {
+                "family": "Ollerton",
+                "given": "Jeff"
+            },
+            {
+                "family": "Petanidou",
+                "given": "Theodora"
+            },
+            {
+                "family": "Sandel",
+                "given": "Brody"
+            },
+            {
+                "family": "Schleuning",
+                "given": "Matthias"
+            },
+            {
+                "family": "Wang",
+                "given": "Zhiheng"
+            },
+            {
+                "family": "Rahbek",
+                "given": "Carsten"
+            },
+            {
+                "family": "Sutherland",
+                "given": "William J."
+            },
+            {
+                "family": "Svenning",
+                "given": "Jens-Christian"
+            },
+            {
+                "family": "Olesen",
+                "given": "Jens M."
+            }
+        ],
+        "container-title": "Ecography",
+        "id": "DalsTroj13",
+        "issue": "12",
+        "issued": {
+            "date-parts": [
+                [
+                    2013
+                ]
+            ]
+        },
+        "page": "1331-1340",
+        "title": "Historical climate-change influences modularity and nestedness of pollination networks",
+        "type": "article-journal",
+        "volume": "36"
+    },
+    {
+        "DOI": "10.1111/1365-2435.12839",
+        "URL": "https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2435.12839",
+        "author": [
+            {
+                "family": "Losapio",
+                "given": "Gianalberto"
+            },
+            {
+                "family": "Sch\u00f6b",
+                "given": "Christian"
+            }
+        ],
+        "container-title": "Functional Ecology",
+        "id": "LosaScho17",
+        "issue": "5",
+        "issued": {
+            "date-parts": [
+                [
+                    2017
+                ]
+            ]
+        },
+        "page": "1145-1152",
+        "title": "Resistance of plant\u2013plant networks to biodiversity loss and secondary extinctions following simulated environmental changes",
+        "type": "article-journal",
+        "volume": "31"
+    },
+    {
+        "DOI": "10.1073/pnas.1719976115",
+        "PMID": "29686079",
+        "URL": "http://www.pnas.org/content/early/2018/04/18/1719976115",
+        "author": [
+            {
+                "family": "Muscente",
+                "given": "A. D."
+            },
+            {
+                "family": "Prabhu",
+                "given": "Anirudh"
+            },
+            {
+                "family": "Zhong",
+                "given": "Hao"
+            },
+            {
+                "family": "Eleish",
+                "given": "Ahmed"
+            },
+            {
+                "family": "Meyer",
+                "given": "Michael B."
+            },
+            {
+                "family": "Fox",
+                "given": "Peter"
+            },
+            {
+                "family": "Hazen",
+                "given": "Robert M."
+            },
+            {
+                "family": "Knoll",
+                "given": "Andrew H."
+            }
+        ],
+        "container-title": "Proceedings of the National Academy of Sciences",
+        "id": "MuscPrab18",
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    4,
+                    19
+                ]
+            ]
+        },
+        "page": "201719976",
+        "title": "Quantifying ecological impacts of mass extinctions with network analysis of fossil communities",
+        "type": "article-journal"
+    },
+    {
+        "DOI": "10.1111/j.1600-0587.2011.06919.x",
+        "author": [
+            {
+                "family": "Ara\u00fajo",
+                "given": "Miguel B."
+            },
+            {
+                "family": "Rozenfeld",
+                "given": "Alejandro"
+            },
+            {
+                "family": "Rahbek",
+                "given": "Carsten"
+            },
+            {
+                "family": "Marquet",
+                "given": "Pablo A."
+            }
+        ],
+        "container-title": "Ecography",
+        "id": "ArauRoze11",
+        "issue": "6",
+        "issued": {
+            "date-parts": [
+                [
+                    2011,
+                    5,
+                    5
+                ]
+            ]
+        },
+        "page": "897-908",
+        "title": "Using species co-occurrence networks to assess the impacts of climate change",
+        "type": "article-journal",
+        "volume": "34"
+    },
+    {
+        "DOI": "10.1073/pnas.1408471111",
+        "author": [
+            {
+                "family": "Yeakel",
+                "given": "Justin D."
+            },
+            {
+                "family": "Pires",
+                "given": "Mathias M."
+            },
+            {
+                "family": "Rudolf",
+                "given": "Lars"
+            },
+            {
+                "family": "Dominy",
+                "given": "Nathaniel J."
+            },
+            {
+                "family": "Koch",
+                "given": "Paul L."
+            },
+            {
+                "family": "Guimar\u00e3es",
+                "given": "Paulo R."
+            },
+            {
+                "family": "Gross",
+                "given": "Thilo"
+            }
+        ],
+        "container-title": "PNAS",
+        "id": "YeakPire14",
+        "issue": "40",
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    10
+                ]
+            ]
+        },
+        "page": "14472-14477",
+        "title": "Collapse of an ecological network in Ancient Egypt",
+        "type": "article-journal",
+        "volume": "111"
+    },
+    {
+        "DOI": "10.1371/journal.pone.0106651",
+        "URL": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0106651",
+        "author": [
+            {
+                "family": "Nenz\u00e9n",
+                "given": "Hedvig K."
+            },
+            {
+                "family": "Montoya",
+                "given": "Daniel"
+            },
+            {
+                "family": "Varela",
+                "given": "Sara"
+            }
+        ],
+        "container-title": "PLOS ONE",
+        "id": "NenzMont14",
+        "issue": "9",
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    9,
+                    10
+                ]
+            ]
+        },
+        "page": "e106651",
+        "title": "The Impact of 850,000 Years of Climate Changes on the Structure and Dynamics of Mammal Food Webs",
+        "type": "article-journal",
+        "volume": "9"
     }
 ]
