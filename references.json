@@ -1,5 +1,45 @@
 [
     {
+        "DOI": "10.1111/ele.12002",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1111/ele.12002/full",
+        "author": [
+            {
+                "family": "Poisot",
+                "given": "Timoth\u00e9e"
+            },
+            {
+                "family": "Canard",
+                "given": "Elsa"
+            },
+            {
+                "family": "Mouillot",
+                "given": "David"
+            },
+            {
+                "family": "Mouquet",
+                "given": "Nicolas"
+            },
+            {
+                "family": "Gravel",
+                "given": "Dominique"
+            }
+        ],
+        "container-title": "Ecology Letters",
+        "id": "PoisCana12",
+        "issue": "12",
+        "issued": {
+            "date-parts": [
+                [
+                    2012
+                ]
+            ]
+        },
+        "page": "1353\u20131361",
+        "title": "The dissimilarity of species interaction networks",
+        "type": "article-journal",
+        "volume": "15"
+    },
+    {
         "DOI": "10.1038/nature02297",
         "URL": "http://dx.doi.org/10.1038/nature02297",
         "author": [
@@ -1261,5 +1301,262 @@
         "title": "Scientific Journals can Advance Tropical Biology and Conservation by Requiring Data Archiving",
         "type": "article-journal",
         "volume": "42"
+    },
+    {
+        "DOI": "10.1111/mec.14872",
+        "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.14872",
+        "author": [
+            {
+                "family": "Eitzinger",
+                "given": "Bernhard"
+            },
+            {
+                "family": "Abrego",
+                "given": "Nerea"
+            },
+            {
+                "family": "Gravel",
+                "given": "Dominique"
+            },
+            {
+                "family": "Huotari",
+                "given": "Tea"
+            },
+            {
+                "family": "Vesterinen",
+                "given": "Eero J."
+            },
+            {
+                "family": "Roslin",
+                "given": "Tomas"
+            }
+        ],
+        "container-title": "Molecular Ecology",
+        "id": "EitzAbre19",
+        "issue": "2",
+        "issued": {
+            "date-parts": [
+                [
+                    2019
+                ]
+            ]
+        },
+        "page": "266-280",
+        "title": "Assessing changes in arthropod predator\u2013prey interactions through DNA-based gut content analysis\u2014variable environment, stable diet",
+        "type": "article-journal",
+        "volume": "28"
+    },
+    {
+        "DOI": "10.1111/1365-2435.12659",
+        "URL": "http://doi.wiley.com/10.1111/1365-2435.12659",
+        "author": [
+            {
+                "family": "Evans",
+                "given": "Darren M."
+            },
+            {
+                "family": "Kitson",
+                "given": "James J. N."
+            },
+            {
+                "family": "Lunt",
+                "given": "David H."
+            },
+            {
+                "family": "Straw",
+                "given": "Nigel A."
+            },
+            {
+                "family": "Pocock",
+                "given": "Michael. J. O."
+            }
+        ],
+        "container-title": "Functional Ecology",
+        "id": "EvanKits16",
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    4
+                ]
+            ]
+        },
+        "title": "Merging DNA metabarcoding and ecological network analysis to understand and build resilient terrestrial ecosystems",
+        "type": "article-journal"
+    },
+    {
+        "DOI": "10.1098/rsos.150677",
+        "URL": "http://rsos.royalsocietypublishing.org/content/3/6/150677",
+        "author": [
+            {
+                "family": "Bahlai",
+                "given": "Christie A."
+            },
+            {
+                "family": "Landis",
+                "given": "Douglas A."
+            }
+        ],
+        "container-title": "Royal Society Open Science",
+        "id": "BahlLand16",
+        "issue": "6",
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    6,
+                    1
+                ]
+            ]
+        },
+        "page": "150677",
+        "title": "Predicting plant attractiveness to pollinators with passive crowdsourcing",
+        "type": "article-journal",
+        "volume": "3"
+    },
+    {
+        "DOI": "10.1371/journal.pone.0150794",
+        "URL": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0150794",
+        "author": [
+            {
+                "family": "Roy",
+                "given": "Helen E."
+            },
+            {
+                "family": "Baxter",
+                "given": "Elizabeth"
+            },
+            {
+                "family": "Saunders",
+                "given": "Aoine"
+            },
+            {
+                "family": "Pocock",
+                "given": "Michael J. O."
+            }
+        ],
+        "container-title": "PLOS ONE",
+        "id": "RoyBaxt16",
+        "issue": "3",
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    3,
+                    17
+                ]
+            ]
+        },
+        "page": "e0150794",
+        "title": "Focal Plant Observations as a Standardised Method for Pollinator Monitoring: Opportunities and Limitations for Mass Participation Citizen Science",
+        "type": "article-journal",
+        "volume": "11"
+    },
+    {
+        "DOI": "10.1111/bij.12548",
+        "URL": "https://academic.oup.com/biolinnean/article/115/3/475/2440508",
+        "author": [
+            {
+                "family": "Pocock",
+                "given": "Michael J. O."
+            },
+            {
+                "family": "Roy",
+                "given": "Helen E."
+            },
+            {
+                "family": "Preston",
+                "given": "Chris D."
+            },
+            {
+                "family": "Roy",
+                "given": "David B."
+            }
+        ],
+        "container-title": "Biological Journal of the Linnean Society",
+        "id": "PocoRoy15",
+        "issue": "3",
+        "issued": {
+            "date-parts": [
+                [
+                    2015,
+                    7,
+                    1
+                ]
+            ]
+        },
+        "page": "475-493",
+        "title": "The Biological Records Centre: a pioneer of citizen science",
+        "type": "article-journal",
+        "volume": "115"
+    },
+    {
+        "DOI": "10.1111/oik.01719",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1111/oik.01719/full",
+        "author": [
+            {
+                "family": "Poisot",
+                "given": "Timoth\u00e9e"
+            },
+            {
+                "family": "Stouffer",
+                "given": "Daniel B."
+            },
+            {
+                "family": "Gravel",
+                "given": "Dominique"
+            }
+        ],
+        "container-title": "Oikos",
+        "id": "PoisStou15",
+        "issue": "3",
+        "issued": {
+            "date-parts": [
+                [
+                    2015
+                ]
+            ]
+        },
+        "page": "243-251",
+        "title": "Beyond species: why ecological interaction networks vary through space and time",
+        "type": "article-journal",
+        "volume": "124"
+    },
+    {
+        "DOI": "10.1111/geb.12602",
+        "author": [
+            {
+                "family": "Poisot",
+                "given": "Timothee"
+            },
+            {
+                "family": "Gueveneux-Julien",
+                "given": "Cynthia"
+            },
+            {
+                "family": "Fortin",
+                "given": "Marie-Josee"
+            },
+            {
+                "family": "Gravel",
+                "given": "Dominique"
+            },
+            {
+                "family": "Legendre",
+                "given": "Pierre"
+            }
+        ],
+        "container-title": "Global Ecology and Biogeography",
+        "id": "PoisGuev17",
+        "issued": {
+            "date-parts": [
+                [
+                    2017
+                ]
+            ]
+        },
+        "page": "n/a-n/a",
+        "title": "Hosts, parasites and their interactions respond to different climatic variables",
+        "type": "article-journal"
     }
 ]
