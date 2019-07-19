@@ -1829,5 +1829,234 @@
         "title": "The Impact of 850,000 Years of Climate Changes on the Structure and Dynamics of Mammal Food Webs",
         "type": "article-journal",
         "volume": "9"
+    },
+    {
+        "DOI": "10.1098/rsbl.2013.1000",
+        "PMCID": "PMC3917341",
+        "PMID": "24402718",
+        "URL": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3917341/",
+        "author": [
+            {
+                "family": "Heleno",
+                "given": "Ruben"
+            },
+            {
+                "family": "Garcia",
+                "given": "Cristina"
+            },
+            {
+                "family": "Jordano",
+                "given": "Pedro"
+            },
+            {
+                "family": "Traveset",
+                "given": "Anna"
+            },
+            {
+                "family": "G\u00f3mez",
+                "given": "Jos\u00e9 Maria"
+            },
+            {
+                "family": "Bl\u00fcthgen",
+                "given": "Nico"
+            },
+            {
+                "family": "Memmott",
+                "given": "Jane"
+            },
+            {
+                "family": "Moora",
+                "given": "Mari"
+            },
+            {
+                "family": "Cerdeira",
+                "given": "Jorge"
+            },
+            {
+                "family": "Rodr\u00edguez-Echeverr\u00eda",
+                "given": "Susana"
+            },
+            {
+                "family": "Freitas",
+                "given": "Helena"
+            },
+            {
+                "family": "Olesen",
+                "given": "Jens M."
+            }
+        ],
+        "container-title": "Biology Letters",
+        "id": "HeleGarc14",
+        "issue": "1",
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    1
+                ]
+            ]
+        },
+        "title": "Ecological networks: delving into the architecture of biodiversity",
+        "type": "article-journal",
+        "volume": "10"
+    },
+    {
+        "DOI": "10.1111/1365-2435.12763",
+        "URL": "http://doi.wiley.com/10.1111/1365-2435.12763",
+        "author": [
+            {
+                "family": "Jordano",
+                "given": "Pedro"
+            }
+        ],
+        "container-title": "Functional Ecology",
+        "id": "Jord16a",
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    9
+                ]
+            ]
+        },
+        "title": "Sampling networks of ecological interactions",
+        "type": "article-journal"
+    },
+    {
+        "DOI": "10.1371/journal.pbio.1002559",
+        "URL": "http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002559",
+        "author": [
+            {
+                "family": "Jordano",
+                "given": "Pedro"
+            }
+        ],
+        "container-title": "PLOS Biol",
+        "id": "Jord16",
+        "issue": "9",
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    9,
+                    15
+                ]
+            ]
+        },
+        "page": "e1002559",
+        "title": "Chasing Ecological Interactions",
+        "type": "article-journal",
+        "volume": "14"
+    },
+    {
+        "author": [
+            {
+                "family": "Bana\u0161ek-Richter",
+                "given": "Carolin"
+            },
+            {
+                "family": "Cattin",
+                "given": "Marie-France"
+            },
+            {
+                "family": "Bersier",
+                "given": "Louis-F\u00e9lix"
+            }
+        ],
+        "container-title": "J. Theor. Biol.",
+        "id": "BanaCatt04",
+        "issue": "1",
+        "issued": {
+            "date-parts": [
+                [
+                    2004
+                ]
+            ]
+        },
+        "page": "23-32",
+        "title": "Sampling effects and the robustness of quantitative and qualitative food-web descriptors",
+        "type": "article-journal",
+        "volume": "226"
+    },
+    {
+        "DOI": "10.1111/j.1365-2656.2011.01883.x",
+        "author": [
+            {
+                "family": "Chacoff",
+                "given": "Natacha P."
+            },
+            {
+                "family": "V\u00e1zquez",
+                "given": "Diego P."
+            },
+            {
+                "family": "Lom\u00e1scolo",
+                "given": "Silvia B."
+            },
+            {
+                "family": "Stevani",
+                "given": "Erica L"
+            },
+            {
+                "family": "Dorado",
+                "given": "Jimena"
+            },
+            {
+                "family": "Padr\u00f3n",
+                "given": "Benigno"
+            }
+        ],
+        "container-title": "J. Anim. Ecol.",
+        "id": "ChacVazq12",
+        "issued": {
+            "date-parts": [
+                [
+                    2012,
+                    8
+                ]
+            ]
+        },
+        "page": "190-200",
+        "title": "Evaluating sampling completeness in a desert plant-pollinator network",
+        "type": "article-journal",
+        "volume": "81"
+    },
+    {
+        "DOI": "10.1111/j.1600-0706.2010.18927.x",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1111/j.1600-0706.2010.18927.x/abstract",
+        "author": [
+            {
+                "family": "Gibson",
+                "given": "Rachel H."
+            },
+            {
+                "family": "Knott",
+                "given": "Ben"
+            },
+            {
+                "family": "Eberlein",
+                "given": "Tim"
+            },
+            {
+                "family": "Memmott",
+                "given": "Jane"
+            }
+        ],
+        "container-title": "Oikos",
+        "id": "GibsKnot11",
+        "issue": "6",
+        "issued": {
+            "date-parts": [
+                [
+                    2011,
+                    6,
+                    1
+                ]
+            ]
+        },
+        "page": "822-831",
+        "title": "Sampling method influences the structure of plant\u2013pollinator networks",
+        "type": "article-journal",
+        "volume": "120"
     }
 ]
