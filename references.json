@@ -2136,5 +2136,138 @@
         "title": "Projected climate change threatens pollinators and crop production in Brazil",
         "type": "article-journal",
         "volume": "12"
+    },
+    {
+        "DOI": "10.1016/j.cois.2019.07.002",
+        "URL": "http://www.sciencedirect.com/science/article/pii/S2214574518301895",
+        "author": [
+            {
+                "family": "Damien",
+                "given": "Maxime"
+            },
+            {
+                "family": "Tougeron",
+                "given": "K\u00e9vin"
+            }
+        ],
+        "container-title": "Current Opinion in Insect Science",
+        "id": "DamiToug19",
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    15
+                ]
+            ]
+        },
+        "title": "Prey-predator phenological mismatch under climate change",
+        "type": "article-journal"
+    },
+    {
+        "DOI": "10.1038/nclimate1347",
+        "URL": "https://www.nature.com/articles/nclimate1347",
+        "author": [
+            {
+                "family": "Devictor",
+                "given": "Vincent"
+            },
+            {
+                "family": "Swaay",
+                "given": "Chris",
+                "non-dropping-particle": "van"
+            },
+            {
+                "family": "Brereton",
+                "given": "Tom"
+            },
+            {
+                "family": "Brotons",
+                "given": "Llu\u00eds"
+            },
+            {
+                "family": "Chamberlain",
+                "given": "Dan"
+            },
+            {
+                "family": "Heli\u00f6l\u00e4",
+                "given": "Janne"
+            },
+            {
+                "family": "Herrando",
+                "given": "Sergi"
+            },
+            {
+                "family": "Julliard",
+                "given": "Romain"
+            },
+            {
+                "family": "Kuussaari",
+                "given": "Mikko"
+            },
+            {
+                "family": "Lindstr\u00f6m",
+                "given": "\u00c5ke"
+            },
+            {
+                "family": "Reif",
+                "given": "Ji\u0159\u00ed"
+            },
+            {
+                "family": "Roy",
+                "given": "David B."
+            },
+            {
+                "family": "Schweiger",
+                "given": "Oliver"
+            },
+            {
+                "family": "Settele",
+                "given": "Josef"
+            },
+            {
+                "family": "Stefanescu",
+                "given": "Constant\u00ed"
+            },
+            {
+                "family": "Van Strien",
+                "given": "Arco"
+            },
+            {
+                "family": "Van Turnhout",
+                "given": "Chris"
+            },
+            {
+                "family": "Vermouzek",
+                "given": "Zden\u011bk"
+            },
+            {
+                "family": "WallisDeVries",
+                "given": "Michiel"
+            },
+            {
+                "family": "Wynhoff",
+                "given": "Irma"
+            },
+            {
+                "family": "Jiguet",
+                "given": "Fr\u00e9d\u00e9ric"
+            }
+        ],
+        "container-title": "Nature Climate Change",
+        "id": "Devivan12",
+        "issue": "2",
+        "issued": {
+            "date-parts": [
+                [
+                    2012,
+                    2
+                ]
+            ]
+        },
+        "page": "121-124",
+        "title": "Differences in the climatic debts of birds and butterflies at a continental scale",
+        "type": "article-journal",
+        "volume": "2"
     }
 ]
