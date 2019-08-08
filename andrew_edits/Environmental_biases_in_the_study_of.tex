@@ -19,59 +19,76 @@ Ecological networks are a useful way to think about ecological systems
 in which species or organisms interact (Heleno et al. 2014; Poisot et
 al. 2016c; Delmas et al. 2018), and recently there has been an explosion
 of interest in their dynamics across large temporal scales (Tylianakis
-\& Morris 2017; Baiser et al. 2019), especially alongside environmental
+\& Morris 2017; Baiser et al. 2019), and especially along environmental
 gradients (Trøjelsgaard \& Olesen 2016; Pellissier et al. 2017). As
-ecosystems and climates are changing rapidly, ecologists realized that
-networks are at risk or unravelling, being invaded by exotic species
-that can destabilize them (Strong \& Leroux 2014; Magrach et al. 2017),
-or adopt entirely novel configurations (Guiden et al. 2019; Hui \&
-Richardson 2019). Simulation studies seem to suggest that knowing the
-shape of the extant network is not sufficient (Thompson \& Gonzalez
-2017), and that it needs to be supplemented by additional data on
-species properties, climate, and climate projection.
+ecosystems and climates are changing rapidly, networks are at risk of
+unravelling: for example by invasion of destabilizing exotic species
+them (Strong \& Leroux 2014; Magrach et al. 2017), or by a ``rewiring''
+of interactions among existing species (Guiden et al. 2019; Hui \&
+Richardson 2019). Simulation studies suggest that knowing the shape of
+the extant network is not sufficient (Thompson \& Gonzalez 2017), and
+that it needs to be supplemented by additional data on the species in
+the food web, climate, and climate projection.
 
 This renewed interest in ecological networks has prompted several
 methodological efforts. First, an expansion of the analytical tools to
 study ecological networks and their variation in space (Poisot et al.
-2012, 2015, 2017). Second, improvements in large-scale data-collection,
-through increased adoption of molecular biology tools (Evans et al.
-2016; Eitzinger et al. 2019) and crowd-sourcing of data collection
-(Pocock et al. 2015; Bahlai \& Landis 2016; Roy et al. 2016). Finally, a
-surge in the development of tools that allow to \emph{infer} species
-interaction (Morales-Castilla et al. 2015) based on limited but
-complementary data on existing network properties (Stock et al. 2017),
-species traits (Gravel et al. 2013; Desjardins-Proulx et al. 2017;
-~Brousseau et al. 2017; Bartomeus et al. 2016), and environmental
-conditions (Gravel et al. 2018). These approaches tend to perform well
-in data-poor environments (Beauchesne et al. 2016), and can be combined
-through ensemble modeling or model averaging to generate possibly more
-robust predictions (Pomeranz et al. 2018). The later task of inferring
-interactions is particularly important, knowing that ecological networks
-are difficult to adequately sample in nature (Banašek-Richter et al.
-2004; Gibson et al. 2011; Chacoff et al. 2012; Jordano 2016a).
-
+2012, 2015, 2017). Second, an improvement in large-scale
+data-collection, through increased adoption of molecular biology tools
+(Evans et al. 2016; Eitzinger et al. 2019) and crowd-sourcing of data
+collection (Pocock et al. 2015; Bahlai \& Landis 2016; Roy et al. 2016).
+Finally, a surge in the development of tools that allow us to
+\emph{infer} species interactions (Morales-Castilla et al. 2015) based
+on limited but complementary data on existing network properties (Stock
+et al. 2017), species traits (Gravel et al. 2013; Desjardins-Proulx et
+al. 2017; ~Brousseau et al. 2017; Bartomeus et al. 2016), and
+environmental conditions (Gravel et al. 2018). These latter approaches
+tend to perform well in data-poor environments (Beauchesne et al. 2016),
+and can be combined through ensemble modeling or model averaging to
+generate more robust predictions (Pomeranz et al. 2018). The task of
+inferring interactions is particularly important becuase ecological
+networks are difficult to adequately sample in nature (Banašek-Richter
+et al. 2004; Gibson et al. 2011; Chacoff et al. 2012; Jordano 2016a).
 The common goal to these efforts is to facilitate the prediction of
-network structure, particularly over space, both extant {[}Poisot et al.
-(2016b); Gravel et al. (2018); \textbf{MARINE FOODWEB}{]} and future
-(Albouy et al. 2014), and to appraise its possible variation in response
-to environmental changes. All of these developments share the need to be
-supported by state of the art data management: novel quantitative tools
-demand a higher volume of network data; novel collection techniques
-demand powerful data repositories; novel inference tools demand easier
-integration between different types of data, including but not limited
-to interactions, species traits, taxonomy, occurrences, and local
-bioclimatic conditions. In short, advancing the science of ecological
-networks requires not only to increase the volume of available data, but
-to pair it with ecologically relevant metadata, in a way that
-facilitates programmatic interaction so that they can be consumed by
-data analysis pipelines.
+network structure, particularly over space {[}Poisot et al. (2016b);
+Gravel et al. (2018); \textbf{MARINE FOODWEB}{]} and into the future
+(Albouy et al. 2014), and to appraise the response of that structure to
+possible environmental changes.
 
-Borrett et al. (2014) identified network ecology as one of the fastest
-growing sub-field in the ecological sciences.
+These disparate methodological efforts share another important trait:
+their continued success depends on state-of-the art data management.
+Novel quantitative tools demand a higher volume of network data; novel
+collection techniques demand powerful data repositories; novel inference
+tools demand easier integration between different types of data,
+including but not limited to interactions, species traits, taxonomy,
+occurrences, and local bioclimatic conditions. In short, advancing the
+science of ecological networks requires us not only to increase the
+volume of available data, but to pair these data with ecologically
+relevant metadata. Such data should also be made available in a way that
+facilitates programmatic interaction so that they can be used by
+reproducible data analysis pipelines.
 
-Synthesizing ecological data presents important challenges and also some
-exciting opportunities. Mangal is well suited to offer such
-opportunities in the study of ecological networks.
+Poisot et al. (2016a) introduced \texttt{mangal.io} as a first step in
+this direction. In the years since the tool was originally published, we
+continued development of the data representation, amount and richness of
+metadata, and digitized and standardized as much ecological data as we
+could find. The second major release of this database contains over 1300
+networks, 120000 interactions across close to 7000 taxa, and represents
+what is to our best knowledge the most complete collection of species
+interactions available. We seek to assess the fitness for purpose of
+ecological networks at the global scale to support synthesis research at
+large scales. Based on temporal and spatial biases in the description of
+some types of interactions, we conclude that while there is an
+increasing amount of available data, most of the planet's surface is
+poorly described. In particular, Africa, South America, and most of Asia
+have very sparse coverage. This suggests that the accuracy of synthesis
+efforts on the worldwide structure or properties of ecological networks
+will have very low predictive values within these areas, and reinforces
+the need to digitize available information, but also prioritize sampling
+towards these locations.
+
+\textbf{Main question} Here we address the question of what we can and
+cannot do with this large store of ecolgocial network data.
 
 \begin{itemize}
 \tightlist
@@ -95,32 +112,13 @@ opportunities in the study of ecological networks.
     \item
       taxonomic resolution
     \item
-      sampling effort
+      sampling effort Synthesizing ecological data presents important
+      challenges and also some exciting opportunities. Mangal is well
+      suited to offer such opportunities in the study of ecological
+      networks.
     \end{itemize}
   \end{itemize}
 \end{itemize}
-
-\textbf{Main question}, is the data fit for purpose, what can we do and
-cannot do with it?
-
-Poisot et al. (2016a) introduced \texttt{mangal.io} as a first step in
-this direction; in the years since the tool was originally published, we
-continued development of the data representation, amount and richness of
-metadata, and digitized and standardized as much ecological data as we
-could find. The second major release of this database contains over 1300
-networks, 120000 interactions across close to 7000 taxa, and represents
-what is to our best knowledge the most complete collection of species
-interactions available. We seek to assess the fitness for purpose of
-ecological networks at the global scale to support synthesis research at
-large scales. Based on temporal and spatial biases in the description of
-some types of interactions, we conclude that while there is an
-increasing amount of available data, most of the planet's surface is
-poorly described. In particular, Africa, South America, and most of Asia
-have very sparse coverage. This suggests that the accuracy of synthesis
-efforts on the worldwide structure or properties of ecological networks
-will have very low predictive values within these areas, and reinforces
-the need to digitize available information, but also prioritize sampling
-towards these locations.
 
 \hypertarget{global-trends-in-ecological-networks-description}{%
 \section{Global trends in ecological networks
@@ -360,11 +358,6 @@ linkage rules across different types of interactions. \emph{Funct Ecol.}
 \textbf{Beauchesne et al.} (2016). Thinking Outside the Box--predicting
 Biotic Interactions in Data-poor Environments. \emph{Vie et milieu-life
 and enVironment.} 66:333--42.
-
-\leavevmode\hypertarget{ref-BorrMood14}{}%
-\textbf{Borrett et al.} (2014). The rise of Network Ecology: Maps of the
-topic diversity and scientific collaboration. \emph{Ecological
-Modelling.} 293:111--27.
 
 \leavevmode\hypertarget{ref-BrouGrav17}{}%
 \textbf{Brousseau et al.} (2017). Trait-matching and phylogeny as
