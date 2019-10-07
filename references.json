@@ -2450,5 +2450,41 @@
         "page": "n/a-n/a",
         "title": "Compositional turnover in host and parasite communities does not change network structure",
         "type": "article-journal"
+    },
+    {
+        "DOI": "10.1111/ecog.02150",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1111/ecog.02150/abstract",
+        "author": [
+            {
+                "family": "Kemp",
+                "given": "Jurene E."
+            },
+            {
+                "family": "Evans",
+                "given": "Darren M."
+            },
+            {
+                "family": "Augustyn",
+                "given": "Willem J."
+            },
+            {
+                "family": "Ellis",
+                "given": "Allan G."
+            }
+        ],
+        "container-title": "Ecography",
+        "id": "KempEvan17",
+        "issued": {
+            "date-parts": [
+                [
+                    2017,
+                    1,
+                    1
+                ]
+            ]
+        },
+        "page": "n/a-n/a",
+        "title": "Invariant antagonistic network structure despite high spatial and temporal turnover of interactions",
+        "type": "article-journal"
     }
 ]
