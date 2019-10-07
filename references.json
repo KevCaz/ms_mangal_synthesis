@@ -2351,5 +2351,104 @@
         "title": "The marine fish food web is globally connected",
         "type": "article-journal",
         "volume": "3"
+    },
+    {
+        "DOI": "10.1111/oik.02305",
+        "author": [
+            {
+                "family": "Dalla Riva",
+                "given": "Giulio V."
+            },
+            {
+                "family": "Stouffer",
+                "given": "Daniel B."
+            }
+        ],
+        "container-title": "Oikos",
+        "id": "DallStou15",
+        "issue": "4",
+        "issued": {
+            "date-parts": [
+                [
+                    2015,
+                    9,
+                    25
+                ]
+            ]
+        },
+        "page": "446-456",
+        "title": "Exploring the evolutionary signature of food webs' backbones using functional traits",
+        "type": "article-journal",
+        "volume": "125"
+    },
+    {
+        "DOI": "10.1038/s41467-018-05056-0",
+        "URL": "https://www.nature.com/articles/s41467-018-05056-0",
+        "author": [
+            {
+                "family": "Mora",
+                "given": "Bernat Bramon"
+            },
+            {
+                "family": "Gravel",
+                "given": "Dominique"
+            },
+            {
+                "family": "Gilarranz",
+                "given": "Luis J."
+            },
+            {
+                "family": "Poisot",
+                "given": "Timoth\u00e9e"
+            },
+            {
+                "family": "Stouffer",
+                "given": "Daniel B."
+            }
+        ],
+        "container-title": "Nature Communications",
+        "id": "MoraGrav18",
+        "issue": "1",
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    4
+                ]
+            ]
+        },
+        "page": "2603",
+        "title": "Identifying a common backbone of interactions underlying food webs from different ecosystems",
+        "type": "article-journal",
+        "volume": "9"
+    },
+    {
+        "DOI": "10.1111/ecog.03514",
+        "URL": "http://onlinelibrary.wiley.com/doi/10.1111/ecog.03514/abstract",
+        "author": [
+            {
+                "family": "Dallas",
+                "given": "Tad"
+            },
+            {
+                "family": "Poisot",
+                "given": "Timoth\u00e9e"
+            }
+        ],
+        "container-title": "Ecography",
+        "id": "DallPois17",
+        "issued": {
+            "date-parts": [
+                [
+                    2017,
+                    12,
+                    1
+                ]
+            ]
+        },
+        "page": "n/a-n/a",
+        "title": "Compositional turnover in host and parasite communities does not change network structure",
+        "type": "article-journal"
     }
 ]
