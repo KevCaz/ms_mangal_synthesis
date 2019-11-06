@@ -196,26 +196,34 @@ that parasitism or predatory networks.}\label{fig:ecc}
 \subsection{Some locations on Earth have no climate
 analogue}\label{some-locations-on-earth-have-no-climate-analogue}}
 
-In figures \textbf{TODO}, we represent the environmental distance
+In figures \ref{fig:envspace}, we represent the environmental distance
 between every pixel covered by \emph{BioClim} data, and the three
-networks that were sampled in the closest environmental conditions. In
-short, higher distances correspond to pixels on Earth for which no
-climate analogue network exist, whereas the darker areas are well
-described. It should be noted that the three type of interactions
-studied here (mutualism, parasitism, predation) have regions with no
-analogues in different locations. In short, it is not that we are
-systematically excluding some areas, but rather than some type of
-interactions are more studied in specific environments. This shows how
-the lack of global coverage identified in \cref{fig:biomes}, for
-example, can cascade up to the global scale. These maps serve as an
-interesting measure of the extent to which spatial predictions can be
-trusted: any extrapolation of network structure in an area devoid of
-analogues should be taken with much greater caution than an
-extrapolation in an area with many similar networks.
+networks that were sampled in the closest environmental conditions (this
+amounts to a \(k\) nearest neighbors with \(k = 3\)). In short, higher
+distances correspond to pixels on Earth for which no climate analogue
+network exists, whereas the darker areas are well described. It should
+be noted that the three types of interactions studied here (mutualism,
+parasitism, predation) have regions with no analogues in different
+locations. In short, it is not that we are systematically excluding some
+areas, but rather than some type of interactions are more studied in
+specific environments. This shows how the lack of global coverage
+identified in \cref{fig:biomes}, for example, can cascade up to the
+global scale. These maps serve as an interesting measure of the extent
+to which spatial predictions can be trusted: any extrapolation of
+network structure in an area devoid of analogues should be taken with
+much greater caution than an extrapolation in an area with many similar
+networks.
 
-\includegraphics{figures/envirodistance_mutualism.png}
-\includegraphics{figures/envirodistance_parasitism.png}
-\includegraphics{figures/envirodistance_predation.png}
+\begin{figure}
+\hypertarget{fig:envspace}{%
+\centering
+\includegraphics{figures/enviromap.png}
+\caption{Environmental distance for every terrestrial pixel to its three
+closest networks. Areas of more saturated coloration are further away
+from any sampled network, and can therefoer not be well predicted based
+on existing empirical data.}\label{fig:envspace}
+}
+\end{figure}
 
 \hypertarget{conclusions}{%
 \section{Conclusions}\label{conclusions}}
