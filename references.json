@@ -1673,6 +1673,7 @@
                 ]
             ]
         },
+        "note": "tex.owner= tpoisot",
         "title": "Inferring biotic interactions from proxies",
         "type": "article-journal"
     },
@@ -2486,5 +2487,287 @@
         "page": "n/a-n/a",
         "title": "Invariant antagonistic network structure despite high spatial and temporal turnover of interactions",
         "type": "article-journal"
+    },
+    {
+        "DOI": "10.1101/815902",
+        "URL": "https://www.biorxiv.org/content/10.1101/815902v1",
+        "author": [
+            {
+                "family": "Carlson",
+                "given": "Colin J."
+            },
+            {
+                "family": "Phillips",
+                "given": "Anna J."
+            },
+            {
+                "family": "Dallas",
+                "given": "Tad A."
+            },
+            {
+                "family": "Alexander",
+                "given": "Laura W."
+            },
+            {
+                "family": "Bansal",
+                "given": "Shweta"
+            }
+        ],
+        "container-title": "bioRxiv",
+        "id": "CarlPhil19",
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    23
+                ]
+            ]
+        },
+        "page": "815902",
+        "title": "What would it take to describe the global diversity of parasites?",
+        "type": "article-journal"
+    },
+    {
+        "DOI": "10.1073/pnas.94.4.1247",
+        "PMID": "11038600",
+        "URL": "https://www.pnas.org/content/94/4/1247",
+        "author": [
+            {
+                "family": "Bersier",
+                "given": "Louis-F\u00e9lix"
+            },
+            {
+                "family": "Sugihara",
+                "given": "George"
+            }
+        ],
+        "container-title": "Proceedings of the National Academy of Sciences",
+        "id": "BersSugi97",
+        "issue": "4",
+        "issued": {
+            "date-parts": [
+                [
+                    1997,
+                    2,
+                    18
+                ]
+            ]
+        },
+        "page": "1247-1251",
+        "title": "Scaling regions for food web properties",
+        "type": "article-journal",
+        "volume": "94"
+    },
+    {
+        "DOI": "10.1111/2041-210X.13104",
+        "URL": "https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.13104",
+        "author": [
+            {
+                "family": "White",
+                "given": "Ethan P."
+            },
+            {
+                "family": "Yenni",
+                "given": "Glenda M."
+            },
+            {
+                "family": "Taylor",
+                "given": "Shawn D."
+            },
+            {
+                "family": "Christensen",
+                "given": "Erica M."
+            },
+            {
+                "family": "Bledsoe",
+                "given": "Ellen K."
+            },
+            {
+                "family": "Simonis",
+                "given": "Juniper L."
+            },
+            {
+                "family": "Ernest",
+                "given": "S. K. Morgan"
+            }
+        ],
+        "container-title": "Methods in Ecology and Evolution",
+        "id": "WhitYenn19",
+        "issue": "3",
+        "issued": {
+            "date-parts": [
+                [
+                    2019
+                ]
+            ]
+        },
+        "page": "332-344",
+        "title": "Developing an automated iterative near-term forecasting system for an ecological study",
+        "type": "article-journal",
+        "volume": "10"
+    },
+    {
+        "DOI": "10.1371/journal.pbio.3000125",
+        "URL": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000125",
+        "author": [
+            {
+                "family": "Yenni",
+                "given": "Glenda M."
+            },
+            {
+                "family": "Christensen",
+                "given": "Erica M."
+            },
+            {
+                "family": "Bledsoe",
+                "given": "Ellen K."
+            },
+            {
+                "family": "Supp",
+                "given": "Sarah R."
+            },
+            {
+                "family": "Diaz",
+                "given": "Renata M."
+            },
+            {
+                "family": "White",
+                "given": "Ethan P."
+            },
+            {
+                "family": "Ernest",
+                "given": "S. K. Morgan"
+            }
+        ],
+        "container-title": "PLOS Biology",
+        "id": "YennChri19",
+        "issue": "1",
+        "issued": {
+            "literal": "29-Jan-2019"
+        },
+        "page": "e3000125",
+        "title": "Developing a modern data workflow for regularly updated data",
+        "type": "article-journal",
+        "volume": "17"
+    },
+    {
+        "DOI": "10.5281/zenodo.1438428",
+        "author": [
+            {
+                "family": "Poisot",
+                "given": "Timoth\u00e9e"
+            },
+            {
+                "family": "Belisle",
+                "given": "Zacharie"
+            },
+            {
+                "family": "Hoebeke",
+                "given": "Laura"
+            },
+            {
+                "family": "Stock",
+                "given": "Michiel"
+            },
+            {
+                "family": "Szefer",
+                "given": "Piotr"
+            }
+        ],
+        "container-title": "Ecography",
+        "id": "PoisBeli19",
+        "issued": {
+            "date-parts": [
+                [
+                    2019
+                ]
+            ]
+        },
+        "title": "EcologicalNetworks.jl - analysing ecological networks",
+        "type": "article-journal"
+    },
+    {
+        "DOI": "10.1371/journal.pcbi.1004525",
+        "URL": "http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004525",
+        "author": [
+            {
+                "family": "Michener",
+                "given": "William K."
+            }
+        ],
+        "container-title": "PLOS Comput Biol",
+        "id": "Mich15",
+        "issue": "10",
+        "issued": {
+            "date-parts": [
+                [
+                    2015,
+                    10,
+                    22
+                ]
+            ]
+        },
+        "page": "e1004525",
+        "title": "Ten Simple Rules for Creating a Good Data Management Plan",
+        "type": "article-journal",
+        "volume": "11"
+    },
+    {
+        "DOI": "10.1038/s41559-018-0772-3",
+        "URL": "https://www.nature.com/articles/s41559-018-0772-3",
+        "author": [
+            {
+                "family": "Bartley",
+                "given": "Timothy J."
+            },
+            {
+                "family": "McCann",
+                "given": "Kevin S."
+            },
+            {
+                "family": "Bieg",
+                "given": "Carling"
+            },
+            {
+                "family": "Cazelles",
+                "given": "Kevin"
+            },
+            {
+                "family": "Granados",
+                "given": "Monica"
+            },
+            {
+                "family": "Guzzo",
+                "given": "Matthew M."
+            },
+            {
+                "family": "MacDougall",
+                "given": "Andrew S."
+            },
+            {
+                "family": "Tunney",
+                "given": "Tyler D."
+            },
+            {
+                "family": "McMeans",
+                "given": "Bailey C."
+            }
+        ],
+        "container-title": "Nature Ecology & Evolution",
+        "id": "BartMcCa19",
+        "issue": "3",
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    3
+                ]
+            ]
+        },
+        "page": "345-354",
+        "title": "Food web rewiring in a changing world",
+        "type": "article-journal",
+        "volume": "3"
     }
 ]

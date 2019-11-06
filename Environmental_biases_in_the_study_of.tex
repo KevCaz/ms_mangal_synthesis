@@ -8,18 +8,20 @@ of interest in their dynamics across large temporal scales (Tylianakis
 \& Morris 2017; Baiser et al. 2019), and especially along environmental
 gradients (Trøjelsgaard \& Olesen 2016; Pellissier et al. 2017). As
 ecosystems and climates are changing rapidly, networks are at risk of
-unravelling: for example by invasion of destabilizing exotic species
-them (Strong \& Leroux 2014; Magrach et al. 2017), or by a ``rewiring''
-of interactions among existing species (Guiden et al. 2019; Hui \&
-Richardson 2019). Simulation studies suggest that knowing the shape of
-the extant network is not sufficient (Thompson \& Gonzalez 2017), and
-that it needs to be supplemented by additional data on the species in
-the food web, climate, and climate projection.
+unravelling and disassembly: for example by invasion of destabilizing
+exotic species them (Strong \& Leroux 2014; Magrach et al. 2017), or by
+a ``rewiring'' of interactions among existing species (Bartley et al.
+2019; Guiden et al. 2019; Hui \& Richardson 2019). Simulation studies
+suggest that knowing the structure of the extant network is not
+sufficient (Thompson \& Gonzalez 2017), and that it needs to be
+supplemented by additional data on the species in the food web, climate,
+and climate projection.
 
 This renewed interest in ecological networks has prompted several
 methodological efforts. First, an expansion of the analytical tools to
-study ecological networks and their variation in space (Poisot et al.
-2012, 2015, 2017). Second, an improvement in large-scale
+study spatial, temporal, and spatio-temporal variation of ecological
+networks in space and in relationship to environmental gradients (Poisot
+et al. 2012, 2015, 2017). Second, an improvement in large-scale
 data-collection, through increased adoption of molecular biology tools
 (Evans et al. 2016; Eitzinger et al. 2019) and crowd-sourcing of data
 collection (Pocock et al. 2015; Bahlai \& Landis 2016; Roy et al. 2016).
@@ -37,8 +39,9 @@ difficult to adequately sample in nature (Banašek-Richter et al. 2004;
 Gibson et al. 2011; Chacoff et al. 2012; Jordano 2016). The common goal
 to these efforts is to facilitate the prediction of network structure,
 particularly over space (Poisot et al. 2016b; Gravel et al. 2018; Albouy
-et al. 2019) and into the future (Albouy et al. 2014), and to appraise
-the response of that structure to possible environmental changes.
+et al. 2019) and into the future (Albouy et al. 2014), in order to
+appraise the response of that structure to possible environmental
+changes.
 
 These disparate methodological efforts share another important trait:
 their continued success depends on state-of-the art data management.
@@ -238,9 +241,9 @@ under severe climate change. However, though we lack baselines against
 which to measure the present, as a community we are in a position to
 provide one for the future. Climate change will continue to have
 important impacts on species distributions and interactions for at least
-the next century {[}tk{]}. The Mangal database provides a structure to
-organize and share network data, creating a baseline for future attempts
-to monitor and adapt to biodiversity change.
+the next century. The Mangal database provides a structure to organize
+and share network data, creating a baseline for future attempts to
+monitor and adapt to biodiversity change.
 
 Possibly more concerning is the fact that the spatial distribution of
 sampled networks shows a clear bias towards the Western world,
@@ -282,28 +285,31 @@ analysts (who understand the needs and assumptions of network methods).
 One line of research that we feel can confidently be pursued lies in
 extrapolating the structure of ecological networks over gradients, not
 at the level of species and their interactions, but at that of the
-community. Mora et al. (2018) revealed that all food webs more or less
-build upon the same structural backbone, which is in part due to strong
-evolutionary constraints on the establishment of species interactions
-(Dalla Riva \& Stouffer 2015); in other words, most networks are
-expected to be variations on a shared theme, and this facilitates the
-task of predicting the overarching structure greatly. Finally, this
-approach to prediction which neglects the composition of networks is
-justified by the fact that even in the presence of strong compositional
-turnover, network structure tends to be maintained at very large spatial
-scales (Dallas \& Poisot 2017).
+community. Mora et al. (2018) revealed that all food webs are more or
+less built upon the same structural backbone, which is in part due to
+strong evolutionary constraints on the establishment of species
+interactions (Dalla Riva \& Stouffer 2015); in other words, most
+networks are expected to be variations on a shared theme, and this
+facilitates the task of predicting the overarching structure greatly.
+Finally, this approach to prediction which neglects the composition of
+networks is justified by the fact that even in the presence of strong
+compositional turnover, network structure tends to be maintained at very
+large spatial scales (Dallas \& Poisot 2017).
 
 Finally, it must be noted that as the amount of empirical evidence
 grows, so too should our understanding of existing relationships between
 network properties, networks properties and space, and the
 interpretation to be drawn from them. In this perspective, the idea of
 continuously updated analyses is very promising. Following the template
-laid out by \textbf{Ethan et al CI for data}, it is feasible to update a
-series of canonical analyses any time the database grows, in order to
-produce living, automated synthesis of ecological networks knowledge. To
-this end, the mangal database has been integrated with
-\texttt{EcologicalNetworks.jl} \textbf{ref}, which allows the
-development of flexible networks analysis pipelines.
+laid out by ({\textbf{???}}) and ({\textbf{???}}), it is feasible to
+update a series of canonical analyses any time the database grows, in
+order to produce living, automated synthesis of ecological networks
+knowledge. To this end, the mangal database has been integrated with
+\texttt{EcologicalNetworks.jl} (Poisot et al. 2019), which allows the
+development of flexible networks analysis pipelines. One immediate
+target would be to borrow the methodology from Carlson et al. (2019),
+and provide estimate of the sampling effort required to accurately
+describe combinations of interaction types and bioclimatic conditions.
 
 \hypertarget{active-development-and-data-contribution}{%
 \subsection{Active development and data
@@ -312,7 +318,7 @@ contribution}\label{active-development-and-data-contribution}}
 This is an open-source project: all data and all code supporting this
 manuscript are available on the Mangal project GitHub organization, and
 the figures presented in this manuscript are themselves packaged as a
-self-contained analysis which can be run at any time.. Our hope is that
+self-contained analysis which can be run at any time. Our hope is that
 the success of this project will encourage similar efforts within other
 parts of the ecological community. In addition, we hope that this
 project will encourage the recognition of the contribution that software
@@ -332,8 +338,8 @@ to build a future of dynamic ecological analyses, wherein analyses are
 automatically re-done as more data get added. This would allow a sort of
 continuous assessment of proposed ecological relationships in network
 structure. This cycle of data discovery and reuse is an example of the
-Data Life Cycle (as discussed by DataOne, {[}tk{]}) and represents one
-way to practice ecological synthesis.
+Data Life Cycle (Michener 2015) and represents one way to practice
+ecological synthesis.
 
 \hypertarget{references}{%
 \section*{References}\label{references}}
@@ -367,6 +373,10 @@ macroecology of food webs. \emph{Global Ecology and Biogeography.} 0.
 robustness of quantitative and qualitative food-web descriptors. \emph{J
 Theor Biol.} 226:23--32.
 
+\leavevmode\hypertarget{ref-BartMcCa19}{}%
+\textbf{Bartley et al.} (2019). Food web rewiring in a changing world.
+\emph{Nat Ecol Evol.} 3:345--54.
+
 \leavevmode\hypertarget{ref-BartGrav16}{}%
 \textbf{Bartomeus et al.} (2016). A common framework for identifying
 linkage rules across different types of interactions. \emph{Funct Ecol.}
@@ -386,6 +396,10 @@ predictors of predator-prey interactions involving ground beetles.
 \textbf{Bruna}. (2010). Scientific Journals can Advance Tropical Biology
 and Conservation by Requiring Data Archiving. \emph{Biotropica.}
 42:399--401.
+
+\leavevmode\hypertarget{ref-CarlPhil19}{}%
+\textbf{Carlson et al.} (2019). What would it take to describe the
+global diversity of parasites? \emph{bioRxiv.}:815902.
 
 \leavevmode\hypertarget{ref-ChacVazq12}{}%
 \textbf{Chacoff et al.} (2012). Evaluating sampling completeness in a
@@ -494,6 +508,10 @@ blooming of mass-flowering crops. \emph{Ecography.}:n/a--a.
 Principles, Policies and Practices. \emph{Social Epistemology.}
 27:47--67.
 
+\leavevmode\hypertarget{ref-Mich15}{}%
+\textbf{Michener}. (2015). Ten Simple Rules for Creating a Good Data
+Management Plan. \emph{PLOS Comput Biol.} 11:e1004525.
+
 \leavevmode\hypertarget{ref-MoraGrav18}{}%
 \textbf{Mora et al.} (2018). Identifying a common backbone of
 interactions underlying food webs from different ecosystems.
@@ -524,6 +542,10 @@ of citizen science. \emph{Biol J Linn Soc.} 115:475--93.
 \leavevmode\hypertarget{ref-PoisBais16}{}%
 \textbf{Poisot et al.} (2016a). mangal - making ecological network
 analysis simple. \emph{Ecography.} 39:384--90.
+
+\leavevmode\hypertarget{ref-PoisBeli19}{}%
+\textbf{Poisot et al.} (2019). EcologicalNetworks.jl - analysing
+ecological networks. \emph{Ecography.}
 
 \leavevmode\hypertarget{ref-PoisCana12}{}%
 \textbf{Poisot et al.} (2012). The dissimilarity of species interaction
